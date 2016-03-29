@@ -104,5 +104,10 @@ if(file_exists($list_file)){
 		<audio id="mp3play" src="" controls="controls" autoplay="autoplay"></audio>
 	</div>
 </div>
+<footer class="footer">
+<div class="container text-center">
+<p class="text-muted">Designed by <a href="http://www.guyusoftware.com" target="_blank">LKS</a> and <a href="http://www.gidcs.net" target="_blank">GIDCS.Net</a>.</p>
+</div> 
+</footer>
 </body>
 </html>
